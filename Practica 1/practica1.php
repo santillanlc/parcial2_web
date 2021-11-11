@@ -1,7 +1,8 @@
 <?php
-	echo "Mi primer programa en PHP";
+	echo "Mi primeswtweer programa en PHP";
 	echo "<br><br>";
 
+	echo "dfgdf";
 	echo "<h1 style='color:blue;'>Lista de numeros</h1>";
 	
 	for($i = 0; $i<10; $i++){
